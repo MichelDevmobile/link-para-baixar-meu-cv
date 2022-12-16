@@ -1,0 +1,44 @@
+body {
+  background-color: #302219;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+h1 {
+  font-weight: 200;
+  color: cornsilk;
+  font-family: sans-serif;
+  font-size: 850%;
+  line-height: 50%;
+  padding-left: 2%;
+}
+
+h3 {
+  font-weight: 200;
+  color: cornsilk;
+  font-family: sans-serif;
+  font-size: 280%;
+  line-height: 50%;
+  padding-left: 2%;
+}
+.botao {
+  width: 10%;
+  padding-left: 2%;
+  position: absolute;
+  top: 105%;
+}
+.michel-fundo {
+  top: 0px;
+  left: 1000px;
+  width: 500px;
+  height: auto;
+  position: absolute;
+  padding: 0%;
+}
+
+h4 {
+  font-weight: 200;
+  font-family: sans-serif;
+  padding-left: 2%;
+  font-size: 180%;
+}
